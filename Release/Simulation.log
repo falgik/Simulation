@@ -1,0 +1,48 @@
+﻿  main.cpp
+C:\Users\Falgik\source\repos\Simulation\program.h(51,53): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Falgik\source\repos\Simulation\program.h(51,38): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Falgik\source\repos\Simulation\program.h(100,1): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Falgik\source\repos\Simulation\program.h(121,66): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Falgik\source\repos\Simulation\program.h(121,45): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Falgik\source\repos\Simulation\program.h(138,25): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Falgik\source\repos\Simulation\program.h(145,56): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Falgik\source\repos\Simulation\program.h(145,36): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Falgik\source\repos\Simulation\main.cpp(17,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  1 of 266 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Simulation.vcxproj -> C:\Users\Falgik\source\repos\Simulation\Release\Simulation.exe
